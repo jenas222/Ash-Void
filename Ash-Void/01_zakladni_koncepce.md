@@ -1,0 +1,5 @@
+- **Plynuly boj**: směr pohybu + směr střelby(_twin-stick combat_), uhyby, pocitani energie
+- **Dynamicke prostredi**: bezgravitacni zony, zive tunely a bortici se vraky
+- **Resource system**: Sbirate "Popel" neboli "Ash" z mrtvych nepratel - je to vase mena a zaroven vase zivotni krev.
+- **Mutace zbrani**: Zbrane po absorbci popela se vyvijeji, zavisejice na typu popela (organicky, mechanicky nebo kosmicky)
+- **Ruzne konce**: nakrmte Srcdce abyste restaurovali zivot nebo srdce spalte na popel
